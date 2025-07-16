@@ -59,17 +59,70 @@ A nova versão foi construída com foco em:
 
 ---
 
-## 🗂️ Arquivos da Entrega
-
-- `POPUP.jpg`: imagem original fornecida
-- `3 - Final.png`: minha versão redesenhada
-- `orientações.jpg`: screenshot das instruções como referência
-- `README.md`: este documento explicativo
-
----
-
 ## ✔️ Conclusão
 
 Este redesenho teve como objetivo transformar uma proposta visual genérica em uma **interface realista, funcional e agradável**, contribuindo com uma experiência mais fluida para o usuário final da plataforma Midas.
 
 ---
+
+# 🏡 Exercício 2 – Layout de Landing Page: Residencial Bela Vista
+
+Este repositório apresenta minha solução para o **Exercício 2** da Fase 2 do processo seletivo para Web Designer da Midas.  
+A proposta foi criar o layout visual de uma **landing page institucional** com base nos materiais fornecidos.
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver o layout de uma **landing page responsiva e persuasiva**, que represente visualmente o **Residencial Bela Vista**, comunicando seus diferenciais de forma clara, organizada e atrativa.
+
+---
+
+## 🧩 Estrutura obrigatória aplicada
+
+Todos os elementos exigidos nas orientações foram respeitados:
+
+- ✅ **Cabeçalho com logotipo**
+- ✅ **Imagem principal em destaque (hero section)**
+- ✅ **Seções organizadas** com informações institucionais e benefícios
+- ✅ **Formulário de contato completo** (nome, e-mail, telefone, mensagem)
+- ✅ **Botão CTA com rótulo adaptado**: “Quero saber mais”
+- ✅ **Ícones de redes sociais**: Instagram, Pinterest e YouTube
+- ✅ **Rodapé institucional**
+
+---
+
+## 🖼️ Resultado final
+
+Abaixo, a renderização final da landing page:
+
+![Resultado Final](./Exercicio%202%20-%20LANDING%20PAGE/2%20-%20Final%20Incompleto.png)
+
+---
+
+## ✍️ Justificativa de escolhas
+
+### 🎨 Design visual
+- **Fundo claro**: destaca as imagens do empreendimento e cria contraste elegante com os textos.
+- **Tipografia moderna**: combina leitura fluida com uma estética sofisticada.
+- **Amarelo como cor de destaque**: remete à marca e transmite calor, energia e exclusividade.
+- **Espaçamento amplo e hierarquia bem definida**: melhora a experiência de leitura e navegação.
+
+### 🧠 Organização das seções
+- A hero apresenta o valor central do empreendimento com botão CTA claro.
+- A seção de **“Destaques”** usa ícones para facilitar a escaneabilidade dos benefícios.
+- A seção de **contato** está bem visível, com formulário funcional e linguagem acessível.
+
+---
+
+## ⏱️ Considerações
+
+Mesmo com o tempo limitado, priorizei:
+- Clareza na comunicação
+- Coerência com o posicionamento do empreendimento
+- Visual atrativo e funcional
+
+A proposta está **pronta para ser implementada por uma equipe de desenvolvimento**.
+
+---
+
