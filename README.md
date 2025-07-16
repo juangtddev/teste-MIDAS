@@ -96,7 +96,7 @@ Todos os elementos exigidos nas orientações foram respeitados:
 
 Abaixo, a renderização final da landing page:
 
-![Resultado Final](./Exercicio%202%20-%20LANDING%20PAGE/2%20-%20Final%20Incompleto.png)
+![Resultado Final](https://github.com/juangtddev/teste-MIDAS/blob/main/2025%20-%20Processo%20Seletivo%20_%20Web%20Designer%20J%C3%BAnior/Exerc%C3%ADcio%202%20-%20Resposta/Final%202.png)
 
 ---
 
