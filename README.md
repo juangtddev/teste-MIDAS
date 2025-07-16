@@ -46,7 +46,7 @@ A nova versão foi construída com foco em:
 
 | Imagem Original                         | Versão Redesenhada                          |
 |----------------------------------------|---------------------------------------------|
-| ![Original](https://raw.githubusercontent.com/juangtddev/teste-MIDAS/refs/heads/main/2025%20-%20Processo%20Seletivo%20_%20Web%20Designer%20J%C3%BAnior/Exerc%C3%ADcio%201%20-%20Resposta/POPUP.jpg) | ![Final](./Exercício%201%20-%20Resposta/3%20-%20Final.png) |
+| ![Original](https://raw.githubusercontent.com/juangtddev/teste-MIDAS/refs/heads/main/2025%20-%20Processo%20Seletivo%20_%20Web%20Designer%20J%C3%BAnior/Exerc%C3%ADcio%201%20-%20Resposta/POPUP.jpg) | ![Final](https://raw.githubusercontent.com/juangtddev/teste-MIDAS/refs/heads/main/2025%20-%20Processo%20Seletivo%20_%20Web%20Designer%20J%C3%BAnior/Exerc%C3%ADcio%201%20-%20Resposta/3%20-%20Final.png) |
 
 ---
 
