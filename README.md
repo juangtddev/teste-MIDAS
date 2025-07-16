@@ -46,7 +46,7 @@ A nova versão foi construída com foco em:
 
 | Imagem Original                         | Versão Redesenhada                          |
 |----------------------------------------|---------------------------------------------|
-| ![Original](./Exercício%201%20-%20Resposta/POPUP.jpg) | ![Final](./Exercício%201%20-%20Resposta/3%20-%20Final.png) |
+| ![Original](2025 - Processo Seletivo _ Web Designer Júnior/Exercício 1 - Resposta/POPUP.jpg) | ![Final](./Exercício%201%20-%20Resposta/3%20-%20Final.png) |
 
 ---
 
